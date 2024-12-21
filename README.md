@@ -16,3 +16,7 @@
             - eg. step 1 guard rails, step2 guardrails, step n guardrails
             - we can apply guardrail on each steps
 
+```python
+    # Validator(colloquially, "guardrail")
+    from guardrails.validators import Validator
+```
