@@ -5,7 +5,7 @@
     - Validity could mean no hallucinations, no PII leackage, roubustness to jail breaking, no profinity language, etc
 
 ![How Guard Rails applied in RAG/AI Applications](image.png)
-![How Guard Rails Work under the Hood](gudardril2.png)
+![How Guard Rails Work under the Hood](guardrail2.png)
 
 
 ## How Having guardrails in your application helps?
