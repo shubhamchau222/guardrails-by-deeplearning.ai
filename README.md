@@ -4,8 +4,8 @@
     - The validation ensures that the behaviour of LLM call is Valid or not
     - Validity could mean no hallucinations, no PII leackage, roubustness to jail breaking, no profinity language, etc
 
-![How Guard Rails applied in RAG/AI Applications](image.png)
-![How Guard Rails Work under the Hood](guardrail2.png)
+![How Guard Rails applied in RAG/AI Applications](Images/image.png)
+![How Guard Rails Work under the Hood](Images/guardrail2.PNG)
 
 
 ## How Having guardrails in your application helps?
